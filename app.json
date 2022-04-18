@@ -1,7 +1,7 @@
 {
     
   "name": "Yotsuba",
-  "description": "A WhatsApp Bot With Rich NSFW Features based on chitoge.",
+  "description": "A WhatsApp bot based on chitoge.",
   "keywords": [
       "bot",
       "whatsapp",
@@ -12,9 +12,9 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/ShinNouzen/Chitoge#readme",
-  "repository": "https://github.com//Whatup364/Chitoge.git",
-  "logo": "https://i.pinimg.com/736x/71/c2/8e/71c28e4ffd58c60aceacffab60db14cc.jpg",
+  "website": "https://github.com/Brand1Jr/Libaba-Bot#readme",
+  "repository": "https://github.com/Brand1Jr/Libaba-Bot.git",
+  "logo": "https://cdn.freebiesupply.com/logos/large/2x/real-madrid-c-f-logo-png-transparent.png",
   "success_url": "/",
   "env": {
       "PREFIX": {
