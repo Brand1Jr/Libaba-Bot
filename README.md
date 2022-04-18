@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/t4SsY8F"><img src="https://i.ibb.co/c1PF2DV/Screenshot-20220413-005657.png" alt="Screenshot-20220413-005657" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>how to know the screen resolution of my laptop</a><br />
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HFTvwZs/IMG-20220418-WA0117.jpg" alt="IMG-20220418-WA0117" border="0"></a>
 # **Libaba-Bot : A WhatsApp BOT
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
