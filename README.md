@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://github.com/iamherok/Cara_public"><img src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" alt="chitoge" border="0"></a>
+<a href="https://ibb.co/t4SsY8F"><img src="https://i.ibb.co/c1PF2DV/Screenshot-20220413-005657.png" alt="Screenshot-20220413-005657" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>how to know the screen resolution of my laptop</a><br />
 
-# **Yotsuba : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+# **Libaba-Bot : A WhatsApp BOT
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -9,7 +9,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Whatup364/Chitoge/blob/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Brand1Jr/Libaba-Bot.git
 
 </div><br/>
 <br/>
