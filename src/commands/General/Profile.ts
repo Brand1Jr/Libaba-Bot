@@ -35,7 +35,7 @@ export default class Command extends BaseCommand {
         } catch (err) {
             M.reply(`Profile Picture not Accessible of ${username}`)
             pfp =
-                'https://www.linkpicture.com/q/OIP-depositphotos-bgremover.png'
+                'https://o.remove.bg/downloads/d0953a7d-7ffd-4c02-b02c-28a4959cd5c2/kisspng-real-madrid-c-f-uefa-champions-league-la-liga-juv-5b1351b072b362.2456057615279927524698-removebg-preview.png'
         }
         const exp = (await this.client.getUser(user)).Xp
         let role: string;
@@ -86,7 +86,7 @@ export default class Command extends BaseCommand {
         await M.reply(
             await request.buffer(
                 pfp ||
-                    'https://cdn.donmai.us/original/04/b8/04b83e229baed4a8e83787d75b28a614.jpg'
+                    'https://o.remove.bg/downloads/14f1513e-3cf6-4a84-9a9c-61df1e0f4a14/real-madrid-logo-png-29-removebg-preview.png'
             ),
             MessageType.image,
             undefined,
