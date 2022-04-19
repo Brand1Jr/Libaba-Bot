@@ -25,8 +25,6 @@ const client = new WAClient({
   chatBotUrl: process.env.CHAT_BOT_URL || "",
   gifApi: process.env.TENOR_API_KEY || "",
   geniusKey: process.env.GENIUS_KEY || "",
-  malUsername: process.env.MAL_USERNAME || "",
-  malPassword: process.env.MAL_PASSWORD || "",
 });
 client.log("Starting...");
 
