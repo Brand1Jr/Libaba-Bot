@@ -49,14 +49,6 @@
       "GENIUS_KEY": {
           "description": "Your access token of genius.com to fetch the lyrics",
           "required": false
-      },
-      "MAL_USERNAME": {
-          "description": "Your username for myanimelist.net to make anime and manga search",
-          "required": false
-      },
-      "MAL_PASSWORD": {
-          "description": "Your password for myanimelist.net to make anime and manga search",
-          "required": false
       }
   },
   "buildpacks": [
