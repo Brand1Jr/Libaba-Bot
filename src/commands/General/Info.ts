@@ -34,13 +34,13 @@ export default class Command extends BaseCommand {
 			return `${pad(hours)}:${pad(minutes)}:${pad(secs)}`;
 		};
 		const uptime = () => formatTime(process.uptime());
-		await M.reply(await request.buffer(`https://c.tenor.com/veo9RwLpw8AAAAPo/nakano-yotsuba-wolverine.mp4`),
+		await M.reply(await request.buffer(`https://c.tenor.com/5mHtiQtXm6cAAAPo/real-madrid.mp4`),
             MessageType.video,
             Mimetype.gif,
             undefined,
-            `━━━❰ 🅨︎🅞︎🅣︎🅢︎🅤︎🅑︎🅐︎ ❱━━━\n\n🔮 *Groups: ${
+            `━━━❰ ⓇⒺⒶⓁ ⓂⒶⒹⓇⒾⒹⓈ ❱━━━\n\n🔮 *Groups: ${
 				chats.length
-					}*\n\n🚦 *Uptime: ${uptime()}*\n\n🦆 *My cute people: ${users}*\n\n💢 *Banned Users: ${uban}*\n\n\n`,
+					}*\n\n🚦 *Uptime: ${uptime()}*\n\n🦆 *Players: ${users}*\n\n💢 *Banned Players: ${uban}*\n\n\n`,
                     undefined
                 ).catch((reason: any) =>
             M.reply(`✖ An error occurred. Please try again later.`))	
